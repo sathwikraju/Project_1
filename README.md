@@ -1,2 +1,2 @@
 # Project_1
-Making an apllication for Camera Rentals
+Camera Rental Application for rentmycam.io
